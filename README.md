@@ -68,12 +68,12 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MikeKravchenko&show_icons=true&hide_border=true" /> <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeKravchenko&layout=compact&hide_border=true&card_width=260" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkravchenko-upchain&show_icons=true&hide_border=true" /> <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkravchenko-upchain&layout=compact&hide_border=true&card_width=260" />
 
 [website]: https://mikekravchenko.github.io/portfolio
 [twitter]: https://twitter.com/Michael79061729
 [facebook]: https://www.facebook.com/profile.php?id=100009071329405
-[instagram]: https://www.instagram.com/mike_kravchenko/
+[instagram]: https://www.instagram.com/mike__kravchenko/
 [linkedin]: https://www.linkedin.com/in/mike-kravchenko/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
