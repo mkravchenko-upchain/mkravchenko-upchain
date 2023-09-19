@@ -68,7 +68,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkravchenko-upchain&show_icons=true&hide_border=true" /> <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkravchenko-upchain&layout=compact&hide_border=true&card_width=260" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkravchenko-upchain&show_icons=true&hide_border=true" /> <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkravchenko-upchain&layout=compact&hide_border=true&card_width=260" /> -->
 
 [website]: https://mikekravchenko.github.io/portfolio
 [twitter]: https://twitter.com/Michael79061729
