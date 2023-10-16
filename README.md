@@ -1,11 +1,10 @@
 ### Hi there, My name is Mike 👋
 
-## I'm a DevOps with ambitions of developer!
+## I'm a DevOps with ambitions of Software Architect!
 
-- 🔭 I'm currently working on anything my hands can grab!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🔭 Currently working on anything my hands can grab!
+- 👯 I’m looking to collaborate with other people
+- 🥅 2023 Goals: Contribute to Open Source and company internal projects
 <!-- - ⚡ Fun fact: -->
 
 ### Connect with me:
